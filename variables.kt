@@ -4,7 +4,7 @@ fun main() {
     val c: Int
     c = 3
 
-    val x = 5
+    var x = 5
     x += 1
 
     val PI = 3.14
